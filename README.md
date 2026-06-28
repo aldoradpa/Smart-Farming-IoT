@@ -118,7 +118,7 @@ Smart-Farming-IoT/
 
 ## Dashboard Blynk
 
-![Prototype](Screenshot/Dashboard_Blynk.jpg)
+![Prototype](Screenshot/Dashboard_Blynk.jpeg)
 
 ---
 
@@ -128,15 +128,15 @@ Smart-Farming-IoT/
 
 ---
 
-## Irrigation System
+## Vertikal Prototypee
 
-![Irrigation](Screenshot/sistem_penyiraman.jpg)
+![Irrigation](Screenshot/vertical_prototype.jpg)
 
 ---
 
-## Smart Farming Implementation
+## Farming Installation
 
-![Implementation](Screenshot/implementasi_smart_farming.jpg)
+![Implementation](Screenshot/smart_farming_installation.jpg)
 
 ---
 
