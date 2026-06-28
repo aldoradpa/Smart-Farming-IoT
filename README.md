@@ -116,9 +116,9 @@ Smart-Farming-IoT/
 
 # 📸 Project Documentation
 
-## Vertical Prototype
+## Dashboard Blynk
 
-![Prototype](Screenshot/prototype_vertikal.jpg)
+![Prototype](Screenshot/Dashboard_Blynk.jpg)
 
 ---
 
