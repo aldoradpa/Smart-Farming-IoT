@@ -140,12 +140,6 @@ Smart-Farming-IoT/
 
 ---
 
-## Field Testing
-
-![Testing](Screenshot/pengujian_lapangan.jpg)
-
----
-
 # 📊 Monitoring Parameters
 
 | Parameter     | Description                 |
