@@ -104,7 +104,7 @@ Smart-Farming-IoT/
 
 # 🧩 Block Diagram
 
-![Block Diagram](Diagram/block_diagram.png)
+![Block Diagram](Diagram/block_diagram.jpg)
 
 ---
 
